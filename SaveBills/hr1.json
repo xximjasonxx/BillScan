@@ -1,0 +1,2710 @@
+{
+ "bill_resolution_type": "bill",
+ "bill_type": "house_bill",
+ "bill_type_label": "H.R.",
+ "committee_reports": [],
+ "committees": [
+  {
+   "abbrev": "",
+   "code": "HSPW07",
+   "committee": 2767,
+   "committee_type": null,
+   "jurisdiction": null,
+   "jurisdiction_link": null,
+   "name": "Coast Guard and Maritime Transportation",
+   "obsolete": false,
+   "url": null
+  },
+  {
+   "abbrev": "",
+   "code": "HSPW13",
+   "committee": 2767,
+   "committee_type": null,
+   "jurisdiction": null,
+   "jurisdiction_link": null,
+   "name": "Economic Development, Public Buildings, and Emergency Management",
+   "obsolete": false,
+   "url": null
+  },
+  {
+   "abbrev": "",
+   "code": "HSIF03",
+   "committee": 2703,
+   "committee_type": null,
+   "jurisdiction": null,
+   "jurisdiction_link": null,
+   "name": "Energy, Climate, and Grid Security",
+   "obsolete": false,
+   "url": null
+  },
+  {
+   "abbrev": "",
+   "code": "HSPW12",
+   "committee": 2767,
+   "committee_type": null,
+   "jurisdiction": null,
+   "jurisdiction_link": null,
+   "name": "Highways and Transit",
+   "obsolete": false,
+   "url": null
+  },
+  {
+   "abbrev": "H.Agriculture",
+   "code": "HSAG",
+   "committee": null,
+   "committee_type": "house",
+   "committee_type_label": "House",
+   "jurisdiction": "The House Committee on Agriculture has legislative jurisdiction over agriculture, food, rural development, and forestry.",
+   "jurisdiction_link": null,
+   "name": "House Committee on Agriculture",
+   "obsolete": false,
+   "url": "https://agriculture.house.gov/"
+  },
+  {
+   "abbrev": "H.EnrgyCmrce",
+   "code": "HSIF",
+   "committee": null,
+   "committee_type": "house",
+   "committee_type_label": "House",
+   "jurisdiction": "The House Committee on Energy and Commerce has legislative jurisdiction on matters related to telecommunications, consumer protection, food and drug safety, public health research, environmental quality, energy policy, and interstate and foreign commerce. It oversees multiple cabinet-level Departments and independent agencies, including the Departments of Energy, Health and Human Services, Commerce, and Transportation, as well as the Environmental Protection Agency, the Federal Trade Commission, the Food and Drug Administration, and the Federal Communications Commission.",
+   "jurisdiction_link": "https://energycommerce.house.gov/committee-history/",
+   "name": "House Committee on Energy and Commerce",
+   "obsolete": false,
+   "url": "https://energycommerce.house.gov/"
+  },
+  {
+   "abbrev": "H.NaturalRes",
+   "code": "HSII",
+   "committee": null,
+   "committee_type": "house",
+   "committee_type_label": "House",
+   "jurisdiction": "The House Committee on Natural Resources considers legislation about American energy production, mineral lands and mining, fisheries and wildlife, public lands, oceans, Native Americans, irrigation and reclamation.",
+   "jurisdiction_link": "https://naturalresources.house.gov/about/",
+   "name": "House Committee on Natural Resources",
+   "obsolete": false,
+   "url": "https://naturalresources.house.gov/"
+  },
+  {
+   "abbrev": "H.Budget",
+   "code": "HSBU",
+   "committee": null,
+   "committee_type": "house",
+   "committee_type_label": "House",
+   "jurisdiction": "The House Committee on the Budget is responsible for drafting a concurrent resolution on the budget for congressional action on spending, revenue, and debt-limit legislation. The Budget Resolution must be jointly agreed to by both the House and the Senate, but does not need to be signed by the President. The Committee is also responsible for enforcing the Budget Resolution by informing representatives of violations to the budget, and by working with other committees, such as the Committee on Appropriations, to prevent potential violations.",
+   "jurisdiction_link": "https://budget.house.gov/about/",
+   "name": "House Committee on the Budget",
+   "obsolete": false,
+   "url": "https://budget.house.gov/"
+  },
+  {
+   "abbrev": "H.TransInfr",
+   "code": "HSPW",
+   "committee": null,
+   "committee_type": "house",
+   "committee_type_label": "House",
+   "jurisdiction": "The Transportation and Infrastructure Committee has jurisdiction over all modes of transportation: aviation, maritime and waterborne transportation, highways, bridges, mass transit, and railroads. The Committee also has jurisdiction over other aspects of our national infrastructure, such as clean water and waste water management, the transport of resources by pipeline, flood damage reduction, the management of federally owned real estate and public buildings, the development of economically depressed rural and urban areas, disaster preparedness and response, and hazardous materials transportation.",
+   "jurisdiction_link": "https://transportation.house.gov/about/history.htm",
+   "name": "House Committee on Transportation and Infrastructure",
+   "obsolete": false,
+   "url": "https://transportation.house.gov/"
+  },
+  {
+   "abbrev": "",
+   "code": "HSPW14",
+   "committee": 2767,
+   "committee_type": null,
+   "jurisdiction": null,
+   "jurisdiction_link": null,
+   "name": "Railroads, Pipelines, and Hazardous Materials",
+   "obsolete": false,
+   "url": null
+  },
+  {
+   "abbrev": "",
+   "code": "HSPW02",
+   "committee": 2767,
+   "committee_type": null,
+   "jurisdiction": null,
+   "jurisdiction_link": null,
+   "name": "Water Resources and Environment",
+   "obsolete": false,
+   "url": null
+  }
+ ],
+ "congress": 118,
+ "cosponsors": [
+  {
+   "bioguideid": "A000055",
+   "birthday": "1965-07-22",
+   "cspanid": 45516,
+   "fediverse_webfinger": null,
+   "firstname": "Robert",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Aderholt",
+   "link": "https://www.govtrack.us/congress/members/robert_aderholt/400004",
+   "middlename": "B.",
+   "name": "Rep. Robert Aderholt [R-AL4]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00003028",
+   "pvsid": null,
+   "sortname": "Aderholt, Robert (Rep.) [R-AL4]",
+   "twitterid": "Robert_Aderholt",
+   "youtubeid": "RobertAderholt"
+  },
+  {
+   "bioguideid": "B001248",
+   "birthday": "1950-12-23",
+   "cspanid": 1003620,
+   "fediverse_webfinger": null,
+   "firstname": "Michael",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Burgess",
+   "link": "https://www.govtrack.us/congress/members/michael_burgess/400052",
+   "middlename": "C.",
+   "name": "Rep. Michael Burgess [R-TX26]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00025219",
+   "pvsid": null,
+   "sortname": "Burgess, Michael (Rep.) [R-TX26]",
+   "twitterid": "MichaelCBurgess",
+   "youtubeid": "michaelcburgessmd"
+  },
+  {
+   "bioguideid": "G000546",
+   "birthday": "1963-11-07",
+   "cspanid": 89873,
+   "fediverse_webfinger": null,
+   "firstname": "Sam",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Graves",
+   "link": "https://www.govtrack.us/congress/members/sam_graves/400158",
+   "middlename": "B.",
+   "name": "Rep. Sam Graves [R-MO6]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00013323",
+   "pvsid": null,
+   "sortname": "Graves, Sam (Rep.) [R-MO6]",
+   "twitterid": "RepSamGraves",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "R000395",
+   "birthday": "1937-12-31",
+   "cspanid": 6739,
+   "fediverse_webfinger": null,
+   "firstname": "Harold",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Rogers",
+   "link": "https://www.govtrack.us/congress/members/harold_rogers/400340",
+   "middlename": "",
+   "name": "Rep. Harold “Hal” Rogers [R-KY5]",
+   "namemod": "",
+   "nickname": "Hal",
+   "osid": "N00003473",
+   "pvsid": null,
+   "sortname": "Rogers, Harold “Hal” (Rep.) [R-KY5]",
+   "twitterid": "RepHalRogers",
+   "youtubeid": "RepHalRogers"
+  },
+  {
+   "bioguideid": "M001159",
+   "birthday": "1969-05-22",
+   "cspanid": 1013063,
+   "fediverse_webfinger": null,
+   "firstname": "Cathy",
+   "gender": "female",
+   "gender_label": "Female",
+   "lastname": "McMorris Rodgers",
+   "link": "https://www.govtrack.us/congress/members/cathy_mcmorris_rodgers/400659",
+   "middlename": "Anne",
+   "name": "Rep. Cathy Anne McMorris Rodgers [R-WA5]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00026314",
+   "pvsid": null,
+   "sortname": "McMorris Rodgers, Cathy (Rep.) [R-WA5]",
+   "twitterid": "CathyMcMorris",
+   "youtubeid": "mcmorrisrodgers"
+  },
+  {
+   "bioguideid": "W000798",
+   "birthday": "1951-04-12",
+   "cspanid": 1022844,
+   "fediverse_webfinger": null,
+   "firstname": "Tim",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Walberg",
+   "link": "https://www.govtrack.us/congress/members/tim_walberg/412213",
+   "middlename": "",
+   "name": "Rep. Tim Walberg [R-MI5]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00026368",
+   "pvsid": null,
+   "sortname": "Walberg, Tim (Rep.) [R-MI5]",
+   "twitterid": "RepWalberg",
+   "youtubeid": "RepWalberg"
+  },
+  {
+   "bioguideid": "B001257",
+   "birthday": "1963-02-08",
+   "cspanid": 1022873,
+   "fediverse_webfinger": null,
+   "firstname": "Gus",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Bilirakis",
+   "link": "https://www.govtrack.us/congress/members/gus_bilirakis/412250",
+   "middlename": "M.",
+   "name": "Rep. Gus Bilirakis [R-FL12]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00027462",
+   "pvsid": null,
+   "sortname": "Bilirakis, Gus (Rep.) [R-FL12]",
+   "twitterid": "RepGusBilirakis",
+   "youtubeid": "RepGusBilirakis"
+  },
+  {
+   "bioguideid": "L000566",
+   "birthday": "1956-04-18",
+   "cspanid": 1028071,
+   "fediverse_webfinger": null,
+   "firstname": "Robert",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Latta",
+   "link": "https://www.govtrack.us/congress/members/robert_latta/412256",
+   "middlename": "E.",
+   "name": "Rep. Robert Latta [R-OH5]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00012233",
+   "pvsid": null,
+   "sortname": "Latta, Robert (Rep.) [R-OH5]",
+   "twitterid": "BobLatta",
+   "youtubeid": "CongressmanBobLatta"
+  },
+  {
+   "bioguideid": "G000558",
+   "birthday": "1964-02-18",
+   "cspanid": 1031343,
+   "fediverse_webfinger": null,
+   "firstname": "Brett",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Guthrie",
+   "link": "https://www.govtrack.us/congress/members/brett_guthrie/412278",
+   "middlename": "",
+   "name": "Rep. Brett Guthrie [R-KY2]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00029675",
+   "pvsid": null,
+   "sortname": "Guthrie, Brett (Rep.) [R-KY2]",
+   "twitterid": "RepGuthrie",
+   "youtubeid": "BrettGuthrie"
+  },
+  {
+   "bioguideid": "M001177",
+   "birthday": "1956-07-10",
+   "cspanid": 30359,
+   "fediverse_webfinger": null,
+   "firstname": "Tom",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "McClintock",
+   "link": "https://www.govtrack.us/congress/members/tom_mcclintock/412295",
+   "middlename": "",
+   "name": "Rep. Tom McClintock [R-CA5]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00006863",
+   "pvsid": null,
+   "sortname": "McClintock, Tom (Rep.) [R-CA5]",
+   "twitterid": "RepMcClintock",
+   "youtubeid": "McClintockCA04"
+  },
+  {
+   "bioguideid": "T000467",
+   "birthday": "1959-07-27",
+   "cspanid": 1031359,
+   "fediverse_webfinger": null,
+   "firstname": "Glenn",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Thompson",
+   "link": "https://www.govtrack.us/congress/members/glenn_thompson/412317",
+   "middlename": "",
+   "name": "Rep. Glenn Thompson [R-PA15]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00029736",
+   "pvsid": null,
+   "sortname": "Thompson, Glenn (Rep.) [R-PA15]",
+   "twitterid": "CongressmanGT",
+   "youtubeid": "CongressmanGT"
+  },
+  {
+   "bioguideid": "D000615",
+   "birthday": "1966-01-07",
+   "cspanid": 62713,
+   "fediverse_webfinger": null,
+   "firstname": "Jeff",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Duncan",
+   "link": "https://www.govtrack.us/congress/members/jeff_duncan/412472",
+   "middlename": "",
+   "name": "Rep. Jeff Duncan [R-SC3]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00030752",
+   "pvsid": null,
+   "sortname": "Duncan, Jeff (Rep.) [R-SC3]",
+   "twitterid": "RepJeffDuncan",
+   "youtubeid": "congjeffduncan"
+  },
+  {
+   "bioguideid": "H001067",
+   "birthday": "1971-11-04",
+   "cspanid": 79622,
+   "fediverse_webfinger": null,
+   "firstname": "Richard",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Hudson",
+   "link": "https://www.govtrack.us/congress/members/richard_hudson/412550",
+   "middlename": "",
+   "name": "Rep. Richard Hudson [R-NC9]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00033630",
+   "pvsid": null,
+   "sortname": "Hudson, Richard (Rep.) [R-NC9]",
+   "twitterid": "RepRichHudson",
+   "youtubeid": "RepRichHudson"
+  },
+  {
+   "bioguideid": "W000814",
+   "birthday": "1953-07-02",
+   "cspanid": 79698,
+   "fediverse_webfinger": null,
+   "firstname": "Randy",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Weber",
+   "link": "https://www.govtrack.us/congress/members/randy_weber/412574",
+   "middlename": "K.",
+   "name": "Rep. Randy Weber [R-TX14]",
+   "namemod": "Sr.",
+   "nickname": "",
+   "osid": "N00033539",
+   "pvsid": null,
+   "sortname": "Weber, Randy (Rep.) [R-TX14]",
+   "twitterid": "TXRandy14",
+   "youtubeid": "TXRandy14"
+  },
+  {
+   "bioguideid": "P000609",
+   "birthday": "1954-05-14",
+   "cspanid": 76094,
+   "fediverse_webfinger": null,
+   "firstname": "Gary",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Palmer",
+   "link": "https://www.govtrack.us/congress/members/gary_palmer/412608",
+   "middlename": "J.",
+   "name": "Rep. Gary Palmer [R-AL6]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00035691",
+   "pvsid": null,
+   "sortname": "Palmer, Gary (Rep.) [R-AL6]",
+   "twitterid": "USRepGaryPalmer",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "W000821",
+   "birthday": "1967-11-18",
+   "cspanid": 76097,
+   "fediverse_webfinger": null,
+   "firstname": "Bruce",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Westerman",
+   "link": "https://www.govtrack.us/congress/members/bruce_westerman/412610",
+   "middlename": "",
+   "name": "Rep. Bruce Westerman [R-AR4]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00035527",
+   "pvsid": null,
+   "sortname": "Westerman, Bruce (Rep.) [R-AR4]",
+   "twitterid": "RepWesterman",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "C001103",
+   "birthday": "1957-09-06",
+   "cspanid": 76158,
+   "fediverse_webfinger": null,
+   "firstname": "Earl",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Carter",
+   "link": "https://www.govtrack.us/congress/members/earl_carter/412622",
+   "middlename": "L.",
+   "name": "Rep. Earl “Buddy” Carter [R-GA1]",
+   "namemod": "",
+   "nickname": "Buddy",
+   "osid": "N00035346",
+   "pvsid": null,
+   "sortname": "Carter, Earl “Buddy” (Rep.) [R-GA1]",
+   "twitterid": "RepBuddyCarter",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "A000372",
+   "birthday": "1951-11-07",
+   "cspanid": 62545,
+   "fediverse_webfinger": null,
+   "firstname": "Rick",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Allen",
+   "link": "https://www.govtrack.us/congress/members/rick_allen/412625",
+   "middlename": "W.",
+   "name": "Rep. Rick Allen [R-GA12]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00033720",
+   "pvsid": null,
+   "sortname": "Allen, Rick (Rep.) [R-GA12]",
+   "twitterid": "RepRickAllen",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "G000577",
+   "birthday": "1972-01-31",
+   "cspanid": 9274609,
+   "fediverse_webfinger": null,
+   "firstname": "Garret",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Graves",
+   "link": "https://www.govtrack.us/congress/members/garret_graves/412631",
+   "middlename": "",
+   "name": "Rep. Garret Graves [R-LA6]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00036135",
+   "pvsid": null,
+   "sortname": "Graves, Garret (Rep.) [R-LA6]",
+   "twitterid": "RepGarretGraves",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "Z000018",
+   "birthday": "1961-11-01",
+   "cspanid": null,
+   "fediverse_webfinger": null,
+   "firstname": "Ryan",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Zinke",
+   "link": "https://www.govtrack.us/congress/members/ryan_zinke/412640",
+   "middlename": "",
+   "name": "Rep. Ryan Zinke [R-MT1]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00035616",
+   "pvsid": null,
+   "sortname": "Zinke, Ryan (Rep.) [R-MT1]",
+   "twitterid": null,
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "S001196",
+   "birthday": "1984-07-02",
+   "cspanid": 76364,
+   "fediverse_webfinger": null,
+   "firstname": "Elise",
+   "gender": "female",
+   "gender_label": "Female",
+   "lastname": "Stefanik",
+   "link": "https://www.govtrack.us/congress/members/elise_stefanik/412648",
+   "middlename": "M.",
+   "name": "Rep. Elise Stefanik [R-NY21]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00035523",
+   "pvsid": null,
+   "sortname": "Stefanik, Elise (Rep.) [R-NY21]",
+   "twitterid": "RepStefanik",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "L000585",
+   "birthday": "1968-07-05",
+   "cspanid": 70020,
+   "fediverse_webfinger": null,
+   "firstname": "Darin",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "LaHood",
+   "link": "https://www.govtrack.us/congress/members/darin_lahood/412674",
+   "middlename": "",
+   "name": "Rep. Darin LaHood [R-IL16]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00037031",
+   "pvsid": null,
+   "sortname": "LaHood, Darin (Rep.) [R-IL16]",
+   "twitterid": "RepLaHood",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "D000628",
+   "birthday": "1953-02-16",
+   "cspanid": 104529,
+   "fediverse_webfinger": null,
+   "firstname": "Neal",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Dunn",
+   "link": "https://www.govtrack.us/congress/members/neal_dunn/412691",
+   "middlename": "P.",
+   "name": "Rep. Neal Dunn [R-FL2]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00037442",
+   "pvsid": null,
+   "sortname": "Dunn, Neal (Rep.) [R-FL2]",
+   "twitterid": "DrNealDunnFL2",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "F000465",
+   "birthday": "1966-11-15",
+   "cspanid": 104731,
+   "fediverse_webfinger": null,
+   "firstname": "A.",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Ferguson",
+   "link": "https://www.govtrack.us/congress/members/drew_ferguson/412700",
+   "middlename": "Drew",
+   "name": "Rep. Drew Ferguson [R-GA3]",
+   "namemod": "IV",
+   "nickname": "",
+   "osid": "N00039090",
+   "pvsid": null,
+   "sortname": "Ferguson, Drew (Rep.) [R-GA3]",
+   "twitterid": "RepDrewFerguson",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "T000478",
+   "birthday": "1961-02-04",
+   "cspanid": 103481,
+   "fediverse_webfinger": null,
+   "firstname": "Claudia",
+   "gender": "female",
+   "gender_label": "Female",
+   "lastname": "Tenney",
+   "link": "https://www.govtrack.us/congress/members/claudia_tenney/412720",
+   "middlename": "",
+   "name": "Rep. Claudia Tenney [R-NY24]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00036351",
+   "pvsid": null,
+   "sortname": "Tenney, Claudia (Rep.) [R-NY24]",
+   "twitterid": "RepTenney",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "C001114",
+   "birthday": "1960-05-10",
+   "cspanid": null,
+   "fediverse_webfinger": null,
+   "firstname": "John",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Curtis",
+   "link": "https://www.govtrack.us/congress/members/john_curtis/412740",
+   "middlename": "R.",
+   "name": "Rep. John Curtis [R-UT3]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00041221",
+   "pvsid": null,
+   "sortname": "Curtis, John (Rep.) [R-UT3]",
+   "twitterid": "RepJohnCurtis",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "B001306",
+   "birthday": "1962-01-16",
+   "cspanid": null,
+   "fediverse_webfinger": null,
+   "firstname": "Troy",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Balderson",
+   "link": "https://www.govtrack.us/congress/members/troy_balderson/412747",
+   "middlename": "",
+   "name": "Rep. Troy Balderson [R-OH12]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00042194",
+   "pvsid": null,
+   "sortname": "Balderson, Troy (Rep.) [R-OH12]",
+   "twitterid": "RepBalderson",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "P000615",
+   "birthday": "1956-11-14",
+   "cspanid": null,
+   "fediverse_webfinger": null,
+   "firstname": "Greg",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Pence",
+   "link": "https://www.govtrack.us/congress/members/greg_pence/412778",
+   "middlename": "",
+   "name": "Rep. Greg Pence [R-IN6]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00041956",
+   "pvsid": null,
+   "sortname": "Pence, Greg (Rep.) [R-IN6]",
+   "twitterid": "RepGregPence",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "A000377",
+   "birthday": "1976-10-08",
+   "cspanid": null,
+   "fediverse_webfinger": null,
+   "firstname": "Kelly",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Armstrong",
+   "link": "https://www.govtrack.us/congress/members/kelly_armstrong/412794",
+   "middlename": "",
+   "name": "Rep. Kelly Armstrong [R-ND]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00042868",
+   "pvsid": null,
+   "sortname": "Armstrong, Kelly (Rep.) [R-ND]",
+   "twitterid": "RepArmstrongND",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "M001204",
+   "birthday": "1964-02-10",
+   "cspanid": null,
+   "fediverse_webfinger": null,
+   "firstname": "Daniel",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Meuser",
+   "link": "https://www.govtrack.us/congress/members/daniel_meuser/412811",
+   "middlename": "",
+   "name": "Rep. Daniel Meuser [R-PA9]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00029416",
+   "pvsid": null,
+   "sortname": "Meuser, Daniel (Rep.) [R-PA9]",
+   "twitterid": "RepMeuser",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "J000302",
+   "birthday": "1957-02-08",
+   "cspanid": null,
+   "fediverse_webfinger": null,
+   "firstname": "John",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Joyce",
+   "link": "https://www.govtrack.us/congress/members/john_joyce/412812",
+   "middlename": "",
+   "name": "Rep. John Joyce [R-PA13]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00043242",
+   "pvsid": null,
+   "sortname": "Joyce, John (Rep.) [R-PA13]",
+   "twitterid": "RepJohnJoyce",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "T000480",
+   "birthday": "1984-04-30",
+   "cspanid": null,
+   "fediverse_webfinger": null,
+   "firstname": "William",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Timmons",
+   "link": "https://www.govtrack.us/congress/members/william_timmons/412815",
+   "middlename": "R.",
+   "name": "Rep. William Timmons [R-SC4]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00042715",
+   "pvsid": null,
+   "sortname": "Timmons, William (Rep.) [R-SC4]",
+   "twitterid": "RepTimmons",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "C001120",
+   "birthday": "1984-03-14",
+   "cspanid": null,
+   "fediverse_webfinger": null,
+   "firstname": "Dan",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Crenshaw",
+   "link": "https://www.govtrack.us/congress/members/dan_crenshaw/412820",
+   "middlename": "",
+   "name": "Rep. Dan Crenshaw [R-TX2]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00042224",
+   "pvsid": null,
+   "sortname": "Crenshaw, Dan (Rep.) [R-TX2]",
+   "twitterid": "RepDanCrenshaw",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "B000825",
+   "birthday": "1986-12-15",
+   "cspanid": null,
+   "fediverse_webfinger": null,
+   "firstname": "Lauren",
+   "gender": "female",
+   "gender_label": "Female",
+   "lastname": "Boebert",
+   "link": "https://www.govtrack.us/congress/members/lauren_boebert/456805",
+   "middlename": "Opal",
+   "name": "Rep. Lauren Boebert [R-CO3]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00045974",
+   "pvsid": null,
+   "sortname": "Boebert, Lauren (Rep.) [R-CO3]",
+   "twitterid": "RepBoebert",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "C001039",
+   "birthday": "1988-02-16",
+   "cspanid": null,
+   "fediverse_webfinger": null,
+   "firstname": "Katherine",
+   "gender": "female",
+   "gender_label": "Female",
+   "lastname": "Cammack",
+   "link": "https://www.govtrack.us/congress/members/katherine_cammack/456806",
+   "middlename": "",
+   "name": "Rep. Katherine “Kat” Cammack [R-FL3]",
+   "namemod": "",
+   "nickname": "Kat",
+   "osid": "N00045978",
+   "pvsid": null,
+   "sortname": "Cammack, Katherine “Kat” (Rep.) [R-FL3]",
+   "twitterid": "RepKatCammack",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "M001215",
+   "birthday": "1955-09-06",
+   "cspanid": null,
+   "fediverse_webfinger": null,
+   "firstname": "Mariannette",
+   "gender": "female",
+   "gender_label": "Female",
+   "lastname": "Miller-Meeks",
+   "link": "https://www.govtrack.us/congress/members/mariannette_miller_meeks/456817",
+   "middlename": "Jane",
+   "name": "Rep. Mariannette Miller-Meeks [R-IA1]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00029495",
+   "pvsid": null,
+   "sortname": "Miller-Meeks, Mariannette (Rep.) [R-IA1]",
+   "twitterid": "RepMMM",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "M001211",
+   "birthday": "1959-08-27",
+   "cspanid": null,
+   "fediverse_webfinger": null,
+   "firstname": "Mary",
+   "gender": "female",
+   "gender_label": "Female",
+   "lastname": "Miller",
+   "link": "https://www.govtrack.us/congress/members/mary_miller/456820",
+   "middlename": "E.",
+   "name": "Rep. Mary Miller [R-IL15]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00045703",
+   "pvsid": null,
+   "sortname": "Miller, Mary (Rep.) [R-IL15]",
+   "twitterid": "RepMaryMiller",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "L000266",
+   "birthday": "1988-02-17",
+   "cspanid": null,
+   "fediverse_webfinger": null,
+   "firstname": "Jacob",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "LaTurner",
+   "link": "https://www.govtrack.us/congress/members/jacob_laturner/456824",
+   "middlename": "",
+   "name": "Rep. Jacob “Jake” LaTurner [R-KS2]",
+   "namemod": "",
+   "nickname": "Jake",
+   "osid": "N00044232",
+   "pvsid": null,
+   "sortname": "LaTurner, Jacob “Jake” (Rep.) [R-KS2]",
+   "twitterid": "RepLaTurner",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "B000740",
+   "birthday": "1973-11-11",
+   "cspanid": null,
+   "fediverse_webfinger": null,
+   "firstname": "Stephanie",
+   "gender": "female",
+   "gender_label": "Female",
+   "lastname": "Bice",
+   "link": "https://www.govtrack.us/congress/members/stephanie_bice/456841",
+   "middlename": "I.",
+   "name": "Rep. Stephanie Bice [R-OK5]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00044579",
+   "pvsid": null,
+   "sortname": "Bice, Stephanie (Rep.) [R-OK5]",
+   "twitterid": "RepBice",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "P000048",
+   "birthday": "1978-12-28",
+   "cspanid": null,
+   "fediverse_webfinger": null,
+   "firstname": "August",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Pfluger",
+   "link": "https://www.govtrack.us/congress/members/august_pfluger/456846",
+   "middlename": "Lee",
+   "name": "Rep. August Pfluger [R-TX11]",
+   "namemod": "II",
+   "nickname": "",
+   "osid": "N00045421",
+   "pvsid": null,
+   "sortname": "Pfluger, August (Rep.) [R-TX11]",
+   "twitterid": "RepPfluger",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "O000086",
+   "birthday": "1951-08-02",
+   "cspanid": null,
+   "fediverse_webfinger": null,
+   "firstname": "Clarence",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Owens",
+   "link": "https://www.govtrack.us/congress/members/clarence_owens/456852",
+   "middlename": "",
+   "name": "Rep. Clarence “Burgess” Owens [R-UT4]",
+   "namemod": "",
+   "nickname": "Burgess",
+   "osid": "N00045812",
+   "pvsid": null,
+   "sortname": "Owens, Clarence “Burgess” (Rep.) [R-UT4]",
+   "twitterid": "RepBurgessOwens",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "L000595",
+   "birthday": "1981-03-16",
+   "cspanid": null,
+   "fediverse_webfinger": null,
+   "firstname": "Julia",
+   "gender": "female",
+   "gender_label": "Female",
+   "lastname": "Letlow",
+   "link": "https://www.govtrack.us/congress/members/julia_letlow/456859",
+   "middlename": "",
+   "name": "Rep. Julia Letlow [R-LA5]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00047972",
+   "pvsid": null,
+   "sortname": "Letlow, Julia (Rep.) [R-LA5]",
+   "twitterid": "RepJuliaLetlow",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "C001126",
+   "birthday": "1971-03-13",
+   "cspanid": null,
+   "fediverse_webfinger": null,
+   "firstname": "Mike",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Carey",
+   "link": "https://www.govtrack.us/congress/members/mike_carey/456864",
+   "middlename": "",
+   "name": "Rep. Mike Carey [R-OH15]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00048568",
+   "pvsid": null,
+   "sortname": "Carey, Mike (Rep.) [R-OH15]",
+   "twitterid": "RepMikeCarey",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "C001133",
+   "birthday": "1982-08-30",
+   "cspanid": null,
+   "fediverse_webfinger": null,
+   "firstname": "Juan",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Ciscomani",
+   "link": "https://www.govtrack.us/congress/members/juan_ciscomani/456880",
+   "middlename": "Guadaloupe",
+   "name": "Rep. Juan Ciscomani [R-AZ6]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00049039",
+   "pvsid": null,
+   "sortname": "Ciscomani, Juan (Rep.) [R-AZ6]",
+   "twitterid": "RepCiscomani",
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "A000379",
+   "birthday": "1963-10-04",
+   "cspanid": null,
+   "fediverse_webfinger": null,
+   "firstname": "Mark",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Alford",
+   "link": "https://www.govtrack.us/congress/members/mark_alford/456909",
+   "middlename": "Allen",
+   "name": "Rep. Mark Alford [R-MO4]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00049617",
+   "pvsid": null,
+   "sortname": "Alford, Mark (Rep.) [R-MO4]",
+   "twitterid": null,
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "W000828",
+   "birthday": "1967-05-22",
+   "cspanid": null,
+   "fediverse_webfinger": null,
+   "firstname": "Brandon",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Williams",
+   "link": "https://www.govtrack.us/congress/members/brandon_williams/456926",
+   "middlename": "McDonald",
+   "name": "Rep. Brandon Williams [R-NY22]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00050433",
+   "pvsid": null,
+   "sortname": "Williams, Brandon (Rep.) [R-NY22]",
+   "twitterid": null,
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "L000600",
+   "birthday": "1981-02-27",
+   "cspanid": null,
+   "fediverse_webfinger": null,
+   "firstname": "Nicholas",
+   "gender": "male",
+   "gender_label": "Male",
+   "lastname": "Langworthy",
+   "link": "https://www.govtrack.us/congress/members/nicholas_langworthy/456927",
+   "middlename": "A.",
+   "name": "Rep. Nicholas Langworthy [R-NY23]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00051431",
+   "pvsid": null,
+   "sortname": "Langworthy, Nicholas (Rep.) [R-NY23]",
+   "twitterid": null,
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "D000594",
+   "birthday": "1974-11-11",
+   "cspanid": null,
+   "fediverse_webfinger": null,
+   "firstname": "Mónica",
+   "gender": "female",
+   "gender_label": "Female",
+   "lastname": "De La Cruz",
+   "link": "https://www.govtrack.us/congress/members/monica_de_la_cruz/456943",
+   "middlename": "",
+   "name": "Rep. Mónica De La Cruz [R-TX15]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00045793",
+   "pvsid": null,
+   "sortname": "De La Cruz, Mónica (Rep.) [R-TX15]",
+   "twitterid": null,
+   "youtubeid": null
+  },
+  {
+   "bioguideid": "H001096",
+   "birthday": "1962-10-18",
+   "cspanid": null,
+   "fediverse_webfinger": null,
+   "firstname": "Harriet",
+   "gender": "female",
+   "gender_label": "Female",
+   "lastname": "Hageman",
+   "link": "https://www.govtrack.us/congress/members/harriet_hageman/456951",
+   "middlename": "Maxine",
+   "name": "Rep. Harriet Hageman [R-WY]",
+   "namemod": "",
+   "nickname": "",
+   "osid": "N00049197",
+   "pvsid": null,
+   "sortname": "Hageman, Harriet (Rep.) [R-WY]",
+   "twitterid": null,
+   "youtubeid": null
+  }
+ ],
+ "current_chamber": "senate",
+ "current_status": "pass_over_house",
+ "current_status_date": "2023-03-30",
+ "current_status_description": "This bill passed in the House on March 30, 2023 and goes to the Senate next for consideration.",
+ "current_status_label": "Passed House (Senate next)",
+ "display_number": "H.R. 1",
+ "docs_house_gov_postdate": null,
+ "introduced_date": "2023-03-14",
+ "is_alive": true,
+ "is_current": true,
+ "link": "https://www.govtrack.us/congress/bills/118/hr1",
+ "lock_title": false,
+ "major_actions": [
+  [
+   "datetime.datetime(2023, 3, 30, 11, 47, 3)",
+   4,
+   "On passage Passed by the Yeas and Nays: 225 - 204 (Roll no. 182).",
+   "<vote how=\"roll\" type=\"vote\" roll=\"182\" datetime=\"2023-03-30T11:47:03-04:00\" where=\"h\" result=\"pass\" state=\"PASS_OVER:HOUSE\">\n      <text>On passage Passed by the Yeas and Nays: 225 - 204 (Roll no. 182).</text>\n    </vote>\n    "
+  ]
+ ],
+ "noun": "bill",
+ "number": 1,
+ "original_intent_replaced": null,
+ "related_bills": [
+  {
+   "bill": 398422,
+   "relation": "unknown"
+  },
+  {
+   "bill": 400335,
+   "relation": "unknown"
+  },
+  {
+   "bill": 408442,
+   "relation": "unknown"
+  },
+  {
+   "bill": 397013,
+   "relation": "unknown"
+  },
+  {
+   "bill": 409137,
+   "relation": "unknown"
+  },
+  {
+   "bill": 397284,
+   "relation": "unknown"
+  },
+  {
+   "bill": 408032,
+   "relation": "unknown"
+  },
+  {
+   "bill": 397896,
+   "relation": "unknown"
+  },
+  {
+   "bill": 400108,
+   "relation": "unknown"
+  },
+  {
+   "bill": 400023,
+   "relation": "unknown"
+  },
+  {
+   "bill": 399671,
+   "relation": "unknown"
+  },
+  {
+   "bill": 398664,
+   "relation": "procedurally-rel"
+  },
+  {
+   "bill": 398588,
+   "relation": "unknown"
+  },
+  {
+   "bill": 398597,
+   "relation": "unknown"
+  },
+  {
+   "bill": 398158,
+   "relation": "unknown"
+  },
+  {
+   "bill": 398161,
+   "relation": "unknown"
+  },
+  {
+   "bill": 398056,
+   "relation": "unknown"
+  },
+  {
+   "bill": 397201,
+   "relation": "unknown"
+  },
+  {
+   "bill": 397305,
+   "relation": "unknown"
+  },
+  {
+   "bill": 397235,
+   "relation": "unknown"
+  },
+  {
+   "bill": 396632,
+   "relation": "unknown"
+  },
+  {
+   "bill": 397184,
+   "relation": "unknown"
+  },
+  {
+   "bill": 397218,
+   "relation": "unknown"
+  },
+  {
+   "bill": 397250,
+   "relation": "unknown"
+  },
+  {
+   "bill": 397274,
+   "relation": "unknown"
+  },
+  {
+   "bill": 397271,
+   "relation": "unknown"
+  },
+  {
+   "bill": 397288,
+   "relation": "unknown"
+  },
+  {
+   "bill": 397273,
+   "relation": "unknown"
+  },
+  {
+   "bill": 397323,
+   "relation": "unknown"
+  },
+  {
+   "bill": 397335,
+   "relation": "unknown"
+  },
+  {
+   "bill": 397715,
+   "relation": "unknown"
+  },
+  {
+   "bill": 397791,
+   "relation": "unknown"
+  },
+  {
+   "bill": 397327,
+   "relation": "unknown"
+  },
+  {
+   "bill": 397400,
+   "relation": "unknown"
+  },
+  {
+   "bill": 397317,
+   "relation": "unknown"
+  },
+  {
+   "bill": 397249,
+   "relation": "unknown"
+  },
+  {
+   "bill": 397247,
+   "relation": "unknown"
+  },
+  {
+   "bill": 397009,
+   "relation": "unknown"
+  },
+  {
+   "bill": 396628,
+   "relation": "unknown"
+  },
+  {
+   "bill": 396476,
+   "relation": "unknown"
+  },
+  {
+   "bill": 395933,
+   "relation": "unknown"
+  },
+  {
+   "bill": 395891,
+   "relation": "unknown"
+  },
+  {
+   "bill": 395430,
+   "relation": "unknown"
+  },
+  {
+   "bill": 395564,
+   "relation": "unknown"
+  }
+ ],
+ "scheduled_consideration_date": null,
+ "senate_floor_schedule_postdate": null,
+ "sliplawnum": null,
+ "sliplawpubpriv": null,
+ "source": "thomas-congproj",
+ "source_link": null,
+ "sponsor": {
+  "bioguideid": "S001176",
+  "birthday": "1965-10-06",
+  "cspanid": 1015311,
+  "fediverse_webfinger": null,
+  "firstname": "Steve",
+  "gender": "male",
+  "gender_label": "Male",
+  "lastname": "Scalise",
+  "link": "https://www.govtrack.us/congress/members/steve_scalise/412261",
+  "middlename": "Joseph",
+  "name": "Rep. Steve Scalise [R-LA1]",
+  "namemod": "",
+  "nickname": "",
+  "osid": "N00009660",
+  "pvsid": null,
+  "sortname": "Scalise, Steve (Rep.) [R-LA1]",
+  "twitterid": "SteveScalise",
+  "youtubeid": "RepSteveScalise"
+ },
+ "sponsor_role": {
+  "caucus": null,
+  "congress_numbers": [
+   118
+  ],
+  "current": true,
+  "description": "Representative for Louisiana's 1st congressional district",
+  "district": 1,
+  "enddate": "2025-01-03",
+  "extra": {
+   "address": "2049 Rayburn House Office Building Washington DC 20515-1801",
+   "office": "2049 Rayburn House Office Building",
+   "rss_url": "http://scalise.house.gov/rss.xml"
+  },
+  "leadership_title": "House Majority Leader",
+  "party": "Republican",
+  "person": 412261,
+  "phone": "202-225-3015",
+  "role_type": "representative",
+  "role_type_label": "Representative",
+  "senator_class": null,
+  "senator_rank": null,
+  "startdate": "2023-01-03",
+  "state": "LA",
+  "title": "Rep.",
+  "title_long": "Representative",
+  "website": "https://scalise.house.gov"
+ },
+ "statement_admin_policy": {
+  "bills": [
+   "hr1"
+  ],
+  "congress": 118,
+  "date_issued": "2023-03-27",
+  "document_title": "H.R. 1 – Lower Energy Costs Act",
+  "fetched_from_url": "https://www.whitehouse.gov/wp-content/uploads/2023/03/H.R.-1-SAP.pdf",
+  "file": "statements/46-Biden/118/2023-03-27_hr1.pdf",
+  "president": 300008,
+  "url": "https://raw.githubusercontent.com/unitedstates/statements-of-administration-policy/main/archive/statements/46-Biden/118/2023-03-27_hr1.pdf"
+ },
+ "terms": [
+  {
+   "name": "Strategic materials and reserves",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Computer security and identity theft",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Energy",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Alternative and renewable resources",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Coal",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Electric power generation and transmission",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Energy prices",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Energy research",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Energy revenues and royalties",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Oil and gas",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Air quality",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Environmental assessment, monitoring, research",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Environmental regulatory procedures",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Hazardous wastes and toxic substances",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Water quality",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Trade restrictions",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Administrative law and regulatory procedures",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Advisory bodies",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Government information and archives",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Government studies and investigations",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Intergovernmental relations",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Licensing and registrations",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Political parties and affiliation",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Public participation and lobbying",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "State and local government operations",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Environmental health",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Civil actions and liability",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Judicial review and appeals",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Indian lands and resources rights",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Land transfers",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Land use and conservation",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Marine and coastal resources, fisheries",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Metals",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Mining",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Pipelines",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Transportation employees",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Transportation safety and security",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Alaska",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Asia",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Canada",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "China",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Colorado",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Environmental Protection Agency (EPA)",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Federal Energy Regulatory Commission (FERC)",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Latin America",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Mexico",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Montana",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Nevada",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "New Mexico",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "North Dakota",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Oklahoma",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Utah",
+   "term_type": "new",
+   "term_type_label": "New"
+  },
+  {
+   "name": "Wyoming",
+   "term_type": "new",
+   "term_type_label": "New"
+  }
+ ],
+ "text_incorporation": null,
+ "text_info": {
+  "bill_id": 398149,
+  "bill_name": "H.R. 1: Lower Energy Costs Act",
+  "citations": [
+   {
+    "key": "usc/2/900",
+    "paragraph": "et seq.",
+    "section": "900",
+    "text": "2 U.S.C. 900et seq.",
+    "title": "2",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/2/905",
+    "paragraph": "(g)(1)(A)",
+    "section": "905",
+    "text": "2 U.S.C. 905(g)(1)(A)",
+    "title": "2",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/3/301",
+    "paragraph": "note",
+    "section": "301",
+    "text": "3 U.S.C. 301note",
+    "title": "3",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/5/553",
+    "paragraph": null,
+    "section": "553",
+    "text": "5 U.S.C. 553",
+    "title": "5",
+    "type": "usc-section"
+   },
+   {
+    "chapter": "5",
+    "key": "usc/chapter/5/5",
+    "text": "5 U.S.C. Chapter 5",
+    "title": "5",
+    "type": "usc-chapter"
+   },
+   {
+    "key": "usc/7/1925",
+    "paragraph": null,
+    "section": "1925",
+    "text": "7 U.S.C. 1925",
+    "title": "7",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/7/1941",
+    "paragraph": null,
+    "section": "1941",
+    "text": "7 U.S.C. 1941",
+    "title": "7",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/7/1949",
+    "paragraph": null,
+    "section": "1949",
+    "text": "7 U.S.C. 1949",
+    "title": "7",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/13/4370m-2",
+    "paragraph": "(b)",
+    "section": "4370m-2",
+    "text": "13 U.S.C. 4370m-2(b)",
+    "title": "13",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/15/2604",
+    "paragraph": "(a)",
+    "section": "2604",
+    "text": "15 U.S.C. 2604(a)",
+    "title": "15",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/15/636",
+    "paragraph": "(a)",
+    "section": "636",
+    "text": "15 U.S.C. 636(a)",
+    "title": "15",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/15/695",
+    "paragraph": "et seq.",
+    "section": "695",
+    "text": "15 U.S.C. 695et seq.",
+    "title": "15",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/15/717a",
+    "paragraph": null,
+    "section": "717a",
+    "text": "15 U.S.C. 717a",
+    "title": "15",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/15/717b",
+    "paragraph": null,
+    "section": "717b",
+    "text": "15 U.S.C. 717b",
+    "title": "15",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/15/717n",
+    "paragraph": "(a)",
+    "section": "717n",
+    "text": "15 U.S.C. 717n(a)",
+    "title": "15",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/16/1361",
+    "paragraph": "et seq.",
+    "section": "1361",
+    "text": "16 U.S.C. 1361et seq.",
+    "title": "16",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/16/1531",
+    "paragraph": "et seq.",
+    "section": "1531",
+    "text": "16 U.S.C. 1531et seq.",
+    "title": "16",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/16/1536",
+    "paragraph": null,
+    "section": "1536",
+    "text": "16 U.S.C. 1536",
+    "title": "16",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/16/1604",
+    "paragraph": null,
+    "section": "1604",
+    "text": "16 U.S.C. 1604",
+    "title": "16",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/16/668dd",
+    "paragraph": "(e)(1)(A)",
+    "section": "668dd",
+    "text": "16 U.S.C. 668dd(e)(1)(A)",
+    "title": "16",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/16/796",
+    "paragraph": null,
+    "section": "796",
+    "text": "16 U.S.C. 796",
+    "title": "16",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/16/824a-4",
+    "paragraph": "(b)",
+    "section": "824a-4",
+    "text": "16 U.S.C. 824a-4(b)",
+    "title": "16",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/16/824a",
+    "paragraph": "(e)",
+    "section": "824a",
+    "text": "16 U.S.C. 824a(e)",
+    "title": "16",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/16/824a",
+    "paragraph": "(f)",
+    "section": "824a",
+    "text": "16 U.S.C. 824a(f)",
+    "title": "16",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/16/824o",
+    "paragraph": null,
+    "section": "824o",
+    "text": "16 U.S.C. 824o",
+    "title": "16",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/22/2371",
+    "paragraph": null,
+    "section": "2371",
+    "text": "22 U.S.C. 2371",
+    "title": "22",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/22/2780",
+    "paragraph": null,
+    "section": "2780",
+    "text": "22 U.S.C. 2780",
+    "title": "22",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/23/139",
+    "paragraph": "(l)",
+    "section": "139",
+    "text": "23 U.S.C. 139(l)",
+    "title": "23",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/23/139",
+    "paragraph": "(l)(1)",
+    "section": "139",
+    "text": "23 U.S.C. 139(l)(1)",
+    "title": "23",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/23/330",
+    "paragraph": "(e)",
+    "section": "330",
+    "text": "23 U.S.C. 330(e)",
+    "title": "23",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/25/5304",
+    "paragraph": null,
+    "section": "5304",
+    "text": "25 U.S.C. 5304",
+    "title": "25",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/26/226",
+    "paragraph": null,
+    "section": "226",
+    "text": "26 U.S.C. 226",
+    "title": "26",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/30/1001",
+    "paragraph": "et seq.",
+    "section": "1001",
+    "text": "30 U.S.C. 1001et seq.",
+    "title": "30",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/30/1003",
+    "paragraph": null,
+    "section": "1003",
+    "text": "30 U.S.C. 1003",
+    "title": "30",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/30/1003",
+    "paragraph": "(b)",
+    "section": "1003",
+    "text": "30 U.S.C. 1003(b)",
+    "title": "30",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/30/1019",
+    "paragraph": "(a)",
+    "section": "1019",
+    "text": "30 U.S.C. 1019(a)",
+    "title": "30",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/30/1606",
+    "paragraph": "(a)",
+    "section": "1606",
+    "text": "30 U.S.C. 1606(a)",
+    "title": "30",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/30/1606",
+    "paragraph": "(a)(3)(B)(i)",
+    "section": "1606",
+    "text": "30 U.S.C. 1606(a)(3)(B)(i)",
+    "title": "30",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/30/1606",
+    "paragraph": "(c)(3)",
+    "section": "1606",
+    "text": "30 U.S.C. 1606(c)(3)",
+    "title": "30",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/30/1606",
+    "paragraph": "(f)",
+    "section": "1606",
+    "text": "30 U.S.C. 1606(f)",
+    "title": "30",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/30/1607",
+    "paragraph": null,
+    "section": "1607",
+    "text": "30 U.S.C. 1607",
+    "title": "30",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/30/1701",
+    "paragraph": "et seq.",
+    "section": "1701",
+    "text": "30 U.S.C. 1701et seq.",
+    "title": "30",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/30/1735",
+    "paragraph": "(f)",
+    "section": "1735",
+    "text": "30 U.S.C. 1735(f)",
+    "title": "30",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/30/181",
+    "paragraph": "et seq.",
+    "section": "181",
+    "text": "30 U.S.C. 181et seq.",
+    "title": "30",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/30/185",
+    "paragraph": null,
+    "section": "185",
+    "text": "30 U.S.C. 185",
+    "title": "30",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/30/185",
+    "paragraph": "(n)",
+    "section": "185",
+    "text": "30 U.S.C. 185(n)",
+    "title": "30",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/30/188",
+    "paragraph": null,
+    "section": "188",
+    "text": "30 U.S.C. 188",
+    "title": "30",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/30/188",
+    "paragraph": "(e)(3)",
+    "section": "188",
+    "text": "30 U.S.C. 188(e)(3)",
+    "title": "30",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/30/191",
+    "paragraph": null,
+    "section": "191",
+    "text": "30 U.S.C. 191",
+    "title": "30",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/30/191",
+    "paragraph": "(b)",
+    "section": "191",
+    "text": "30 U.S.C. 191(b)",
+    "title": "30",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/30/226",
+    "paragraph": null,
+    "section": "226",
+    "text": "30 U.S.C. 226",
+    "title": "30",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/30/226",
+    "paragraph": "(b)",
+    "section": "226",
+    "text": "30 U.S.C. 226(b)",
+    "title": "30",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/30/226",
+    "paragraph": "(b)(1)(A)",
+    "section": "226",
+    "text": "30 U.S.C. 226(b)(1)(A)",
+    "title": "30",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/30/226",
+    "paragraph": "(d)",
+    "section": "226",
+    "text": "30 U.S.C. 226(d)",
+    "title": "30",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/30/226",
+    "paragraph": "(p)",
+    "section": "226",
+    "text": "30 U.S.C. 226(p)",
+    "title": "30",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/30/226",
+    "paragraph": "(p)(2)",
+    "section": "226",
+    "text": "30 U.S.C. 226(p)(2)",
+    "title": "30",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/30/226",
+    "paragraph": "(p)(3)",
+    "section": "226",
+    "text": "30 U.S.C. 226(p)(3)",
+    "title": "30",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/30/28f",
+    "paragraph": null,
+    "section": "28f",
+    "text": "30 U.S.C. 28f",
+    "title": "30",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/30/355",
+    "paragraph": "(a)",
+    "section": "355",
+    "text": "30 U.S.C. 355(a)",
+    "title": "30",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/33/1341",
+    "paragraph": null,
+    "section": "1341",
+    "text": "33 U.S.C. 1341",
+    "title": "33",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/33/1342",
+    "paragraph": "(a)",
+    "section": "1342",
+    "text": "33 U.S.C. 1342(a)",
+    "title": "33",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/15941",
+    "paragraph": null,
+    "section": "15941",
+    "text": "42 U.S.C. 15941",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/15942",
+    "paragraph": null,
+    "section": "15942",
+    "text": "42 U.S.C. 15942",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/15943",
+    "paragraph": "(b)(1)",
+    "section": "15943",
+    "text": "42 U.S.C. 15943(b)(1)",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/18795a",
+    "paragraph": null,
+    "section": "18795a",
+    "text": "42 U.S.C. 18795a",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/18795b",
+    "paragraph": null,
+    "section": "18795b",
+    "text": "42 U.S.C. 18795b",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/18795",
+    "paragraph": "(c)(7)",
+    "section": "18795",
+    "text": "42 U.S.C. 18795(c)(7)",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/21",
+    "paragraph": null,
+    "section": "21",
+    "text": "42 U.S.C. 21",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/300h-1",
+    "paragraph": null,
+    "section": "300h-1",
+    "text": "42 U.S.C. 300h-1",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/300h-1",
+    "paragraph": "(b)",
+    "section": "300h-1",
+    "text": "42 U.S.C. 300h-1(b)",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/300h-9",
+    "paragraph": "(a)",
+    "section": "300h-9",
+    "text": "42 U.S.C. 300h-9(a)",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/4321",
+    "paragraph": "et seq.",
+    "section": "4321",
+    "text": "42 U.S.C. 4321et seq.",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/4332",
+    "paragraph": null,
+    "section": "4332",
+    "text": "42 U.S.C. 4332",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/4332",
+    "paragraph": "(2)",
+    "section": "4332",
+    "text": "42 U.S.C. 4332(2)",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/4332",
+    "paragraph": "(2)(C)",
+    "section": "4332",
+    "text": "42 U.S.C. 4332(2)(C)",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/4370m",
+    "paragraph": "(18)",
+    "section": "4370m",
+    "text": "42 U.S.C. 4370m(18)",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/4370m",
+    "paragraph": "(6)",
+    "section": "4370m",
+    "text": "42 U.S.C. 4370m(6)",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/4370m",
+    "paragraph": "(6)(A)",
+    "section": "4370m",
+    "text": "42 U.S.C. 4370m(6)(A)",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/6201",
+    "paragraph": "et seq.",
+    "section": "6201",
+    "text": "42 U.S.C. 6201et seq.",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/6212a",
+    "paragraph": null,
+    "section": "6212a",
+    "text": "42 U.S.C. 6212a",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/6240",
+    "paragraph": "(c)",
+    "section": "6240",
+    "text": "42 U.S.C. 6240(c)",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/6241",
+    "paragraph": "(a)",
+    "section": "6241",
+    "text": "42 U.S.C. 6241(a)",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/6243",
+    "paragraph": null,
+    "section": "6243",
+    "text": "42 U.S.C. 6243",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/6271",
+    "paragraph": "et seq.",
+    "section": "6271",
+    "text": "42 U.S.C. 6271et seq.",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/6901",
+    "paragraph": "et seq.",
+    "section": "6901",
+    "text": "42 U.S.C. 6901et seq.",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/6925",
+    "paragraph": "(e)",
+    "section": "6925",
+    "text": "42 U.S.C. 6925(e)",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/7101",
+    "paragraph": null,
+    "section": "7101",
+    "text": "42 U.S.C. 7101",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/7101",
+    "paragraph": "et seq.",
+    "section": "7101",
+    "text": "42 U.S.C. 7101et seq.",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/7401",
+    "paragraph": "et seq.",
+    "section": "7401",
+    "text": "42 U.S.C. 7401et seq.",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/7412",
+    "paragraph": "(r)(2)(C)",
+    "section": "7412",
+    "text": "42 U.S.C. 7412(r)(2)(C)",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/7412",
+    "paragraph": "(r)(7)(B)",
+    "section": "7412",
+    "text": "42 U.S.C. 7412(r)(7)(B)",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/7434",
+    "paragraph": null,
+    "section": "7434",
+    "text": "42 U.S.C. 7434",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/42/7436",
+    "paragraph": null,
+    "section": "7436",
+    "text": "42 U.S.C. 7436",
+    "title": "42",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/43/1331",
+    "paragraph": null,
+    "section": "1331",
+    "text": "43 U.S.C. 1331",
+    "title": "43",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/43/1331",
+    "paragraph": "et seq.",
+    "section": "1331",
+    "text": "43 U.S.C. 1331et seq.",
+    "title": "43",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/43/1331",
+    "paragraph": "note",
+    "section": "1331",
+    "text": "43 U.S.C. 1331note",
+    "title": "43",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/43/1332",
+    "paragraph": "et seq.",
+    "section": "1332",
+    "text": "43 U.S.C. 1332et seq.",
+    "title": "43",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/43/1337",
+    "paragraph": null,
+    "section": "1337",
+    "text": "43 U.S.C. 1337",
+    "title": "43",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/43/1337",
+    "paragraph": "(a)(1)",
+    "section": "1337",
+    "text": "43 U.S.C. 1337(a)(1)",
+    "title": "43",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/43/1337",
+    "paragraph": "(p)(2)",
+    "section": "1337",
+    "text": "43 U.S.C. 1337(p)(2)",
+    "title": "43",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/43/1344",
+    "paragraph": null,
+    "section": "1344",
+    "text": "43 U.S.C. 1344",
+    "title": "43",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/43/1356c",
+    "paragraph": null,
+    "section": "1356c",
+    "text": "43 U.S.C. 1356c",
+    "title": "43",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/43/1701",
+    "paragraph": "et seq.",
+    "section": "1701",
+    "text": "43 U.S.C. 1701et seq.",
+    "title": "43",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/43/1702",
+    "paragraph": null,
+    "section": "1702",
+    "text": "43 U.S.C. 1702",
+    "title": "43",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/43/1714",
+    "paragraph": null,
+    "section": "1714",
+    "text": "43 U.S.C. 1714",
+    "title": "43",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/43/1761",
+    "paragraph": null,
+    "section": "1761",
+    "text": "43 U.S.C. 1761",
+    "title": "43",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/43/1772",
+    "paragraph": "(a)(1)(B)(ii)",
+    "section": "1772",
+    "text": "43 U.S.C. 1772(a)(1)(B)(ii)",
+    "title": "43",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/43/1772",
+    "paragraph": "(c)(1)",
+    "section": "1772",
+    "text": "43 U.S.C. 1772(c)(1)",
+    "title": "43",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/43/1772",
+    "paragraph": "(c)(3)(E)",
+    "section": "1772",
+    "text": "43 U.S.C. 1772(c)(3)(E)",
+    "title": "43",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/43/1772",
+    "paragraph": "(c)(4)(A)",
+    "section": "1772",
+    "text": "43 U.S.C. 1772(c)(4)(A)",
+    "title": "43",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/49/24201",
+    "paragraph": "(a)(4)",
+    "section": "24201",
+    "text": "49 U.S.C. 24201(a)(4)",
+    "title": "49",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/49/60502",
+    "paragraph": null,
+    "section": "60502",
+    "text": "49 U.S.C. 60502",
+    "title": "49",
+    "type": "usc-section"
+   },
+   {
+    "chapter": "601",
+    "key": "usc/chapter/49/601",
+    "text": "49 U.S.C. Chapter 601",
+    "title": "49",
+    "type": "usc-chapter"
+   },
+   {
+    "key": "usc/50/1601",
+    "paragraph": "et seq.",
+    "section": "1601",
+    "text": "50 U.S.C. 1601et seq.",
+    "title": "50",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/50/1701",
+    "paragraph": "et seq.",
+    "section": "1701",
+    "text": "50 U.S.C. 1701et seq.",
+    "title": "50",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/50/4301",
+    "paragraph": "et seq.",
+    "section": "4301",
+    "text": "50 U.S.C. 4301et seq.",
+    "title": "50",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/50/4318",
+    "paragraph": "(c)(1)(A)",
+    "section": "4318",
+    "text": "50 U.S.C. 4318(c)(1)(A)",
+    "title": "50",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/50/4533",
+    "paragraph": "(a)(1)",
+    "section": "4533",
+    "text": "50 U.S.C. 4533(a)(1)",
+    "title": "50",
+    "type": "usc-section"
+   },
+   {
+    "key": "usc/54/306108",
+    "paragraph": null,
+    "section": "306108",
+    "text": "54 U.S.C. 306108",
+    "title": "54",
+    "type": "usc-section"
+   },
+   {
+    "chapter": "3203",
+    "key": "usc/chapter/54/3203",
+    "text": "54 U.S.C. Chapter 3203",
+    "title": "54",
+    "type": "usc-chapter"
+   },
+   {
+    "text": "17 Stat. 91",
+    "type": "statutes_at_large"
+   },
+   {
+    "text": "41 Stat. 450",
+    "type": "statutes_at_large"
+   },
+   {
+    "text": "135 Stat. 1402",
+    "type": "statutes_at_large"
+   },
+   {
+    "text": "136 Stat. 2041",
+    "type": "statutes_at_large"
+   },
+   {
+    "congress": 117,
+    "number": 58,
+    "text": "Public Law 117-58",
+    "type": "slip_law"
+   },
+   {
+    "congress": 117,
+    "number": 169,
+    "text": "Public Law 117-169",
+    "type": "slip_law"
+   }
+  ],
+  "doc_version": "eh",
+  "doc_version_name": "Passed the House",
+  "docdate": "2023-03-30",
+  "govinfo_package_file": "data/congress/118/bills/hr/hr1/text-versions/eh/package.zip",
+  "gpo_pdf_url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1eh/pdf/BILLS-118hr1eh.pdf",
+  "gpo_url": "https://www.govinfo.gov/app/details/BILLS-118hr1eh",
+  "has_displayable_text": true,
+  "has_thumbnail": true,
+  "numpages": 208,
+  "numpages_display": "208 pages",
+  "thumbnail_base_path": "data/congress/118/bills/hr/hr1/text-versions/eh/document",
+  "thumbnail_path": "/congress/bills/118/hr1/_text_image",
+  "xml_file": "data/congress/118/bills/hr/hr1/text-versions/eh/document.xml"
+ },
+ "title": "H.R. 1: Lower Energy Costs Act",
+ "title_without_number": "Lower Energy Costs Act",
+ "titles": [
+  [
+   "display",
+   null,
+   "Lower Energy Costs Act"
+  ],
+  [
+   "short",
+   "passed house",
+   "Lower Energy Costs Act"
+  ],
+  [
+   "short-partial",
+   "passed house",
+   "TAPP American Resources Act"
+  ],
+  [
+   "short-partial",
+   "passed house",
+   "Transparency, Accountability, Permitting, and Production of American Resources Act"
+  ],
+  [
+   "short-partial",
+   "passed house",
+   "Water Quality Certification and Energy Project Improvement Act of 2023"
+  ],
+  [
+   "short",
+   "introduced",
+   "Lower Energy Costs Act"
+  ],
+  [
+   "short-partial",
+   "introduced",
+   "TAPP American Resources Act"
+  ],
+  [
+   "short-partial",
+   "introduced",
+   "Transparency, Accountability, Permitting, and Production of American Resources Act"
+  ],
+  [
+   "short-partial",
+   "introduced",
+   "Water Quality Certification and Energy Project Improvement Act of 2023"
+  ],
+  [
+   "official",
+   "introduced",
+   "To lower energy costs by increasing American energy production, exports, infrastructure, and critical minerals processing, by promoting transparency, accountability, permitting, and production of American resources, and by improving water quality certification and energy projects, and for other purposes."
+  ]
+ ]
+}
